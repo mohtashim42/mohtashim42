@@ -5,10 +5,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=230&section=header&text=Muhammad%20Mohtashim&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20%26%20AI%20Engineer&descAlignY=58&descSize=18" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=230&section=header&text=Muhammad%20Mohtashim&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20and%20AI%20Engineer&descAlignY=58&descSize=18" alt="Header" width="100%"/>
 
 <a href="https://github.com/mohtashim42">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+production-grade+web+platforms;Designing+multi-LLM+gateways+%26+AI+workflows;Shipping+enterprise+microservices+at+scale;15%2B+platforms+delivered+%7C+5%E2%98%85+Upwork+rating" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+production-grade+web+platforms;Designing+multi-LLM+gateways+and+AI+workflows;Shipping+enterprise+microservices+at+scale;15%2B+platforms+delivered+%7C+5%E2%98%85+Upwork+rating" alt="Typing animation" />
 </a>
 
 <br/>
@@ -200,25 +200,6 @@ Delivered end-to-end web applications, e-commerce stores, and client portals whi
 </td>
 </tr>
 </table>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=mohtashim42&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohtashim42&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=mohtashim42&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohtashim42&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity" width="95%"/>
-
-</div>
 
 ---
 
